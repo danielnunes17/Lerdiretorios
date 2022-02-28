@@ -1,0 +1,15 @@
+C:\Work\C#\streams\Lerdiretorios\bin\Debug\net6.0\Lerdiretorios.exe
+C:\Work\C#\streams\Lerdiretorios\bin\Debug\net6.0\Lerdiretorios.deps.json
+C:\Work\C#\streams\Lerdiretorios\bin\Debug\net6.0\Lerdiretorios.runtimeconfig.json
+C:\Work\C#\streams\Lerdiretorios\bin\Debug\net6.0\Lerdiretorios.dll
+C:\Work\C#\streams\Lerdiretorios\bin\Debug\net6.0\ref\Lerdiretorios.dll
+C:\Work\C#\streams\Lerdiretorios\bin\Debug\net6.0\Lerdiretorios.pdb
+C:\Work\C#\streams\Lerdiretorios\obj\Debug\net6.0\Lerdiretorios.csproj.AssemblyReference.cache
+C:\Work\C#\streams\Lerdiretorios\obj\Debug\net6.0\Lerdiretorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\C#\streams\Lerdiretorios\obj\Debug\net6.0\Lerdiretorios.AssemblyInfoInputs.cache
+C:\Work\C#\streams\Lerdiretorios\obj\Debug\net6.0\Lerdiretorios.AssemblyInfo.cs
+C:\Work\C#\streams\Lerdiretorios\obj\Debug\net6.0\Lerdiretorios.csproj.CoreCompileInputs.cache
+C:\Work\C#\streams\Lerdiretorios\obj\Debug\net6.0\Lerdiretorios.dll
+C:\Work\C#\streams\Lerdiretorios\obj\Debug\net6.0\ref\Lerdiretorios.dll
+C:\Work\C#\streams\Lerdiretorios\obj\Debug\net6.0\Lerdiretorios.pdb
+C:\Work\C#\streams\Lerdiretorios\obj\Debug\net6.0\Lerdiretorios.genruntimeconfig.cache
